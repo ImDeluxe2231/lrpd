@@ -1,0 +1,56 @@
+
+<resources>
+    <string name="app_name">Foodike</string>
+    <string name="onboardingHeading1">Elige tu comida favorita</string>
+    <string name="onboardingHeading2">Entrega Inmediata</string>
+    <string name="onboardingHeading3">Entrega inmediata en 20 minutos</string>
+    <string name="onboardingText1">Elija entre una variedad platillos del restaurante cerca de usted</string>
+    <string name="onboardingText2">Los socios de entrega inmediata garantizan la salud y la seguridad del cliente</string>
+    <string name="onboardingText3">Entrega rápida y sencilla para facilitar la experiencia del cliente</string>
+    <string name="welcome_back">¡Bienvenido de nuevo!</string>
+    <string name="forgot_password">¿Has olvidado tu contraseña?</string>
+    <string name="coming_soon">¡Muy pronto!</string>
+    <string name="login">Acceso</string>
+    <string name="or_sign_in_with">o inicia sesión con</string>
+    <string name="login_with_google">Iniciar sesión con Google</string>
+    <string name="login_with_facebook">Iniciar sesión con Facebook</string>
+    <string name="new_to_foodike">¿Eres nuevo? Regístrate</string>
+    <string name="display_picture">Mostrar imagen</string>
+    <string name="log_out">Finalizar la sesión</string>
+    <string name="saved_addresses">Direcciones guardadas</string>
+    <string name="add_edit_and_delete_saved_addresses">Agregar, editar y eliminar direcciones guardadas</string>
+    <string name="payments_and_refunds">
+<![CDATA[ Pagos y reembolsos ]]>
+</string>
+    <string name="information_about_refunds_and_payments">Información sobre reembolsos y pagos</string>
+    <string name="online_ordering_help">Ayuda para pedidos en línea</string>
+    <string name="information_about_ordering_food">Información sobre pedidos de comida</string>
+    <string name="about">Acerca de</string>
+    <string name="about_the_app">Acerca de la aplicación</string>
+    <string name="with">\Con \</string>
+    <string name="love">Love</string>
+    <string name="from_creator">\ de nuestro equipo\</string>
+    <string name="location">Ubicación</string>
+    <string name="back">Atrás</string>
+    <string name="edit">Editar</string>
+    <string name="home">Inicio</string>
+    <string name="history">Historal</string>
+    <string name="empty">Vacío</string>
+    <string name="favourite">Favorito</string>
+    <string name="share">Compartir</string>
+    <string name="drop_down_arrow">Flecha desplegable</string>
+    <string name="rating">Clasificación</string>
+    <string name="outlet">Salida</string>
+    <string name="outlet_2">Salida:</string>
+    <string name="your_location">Tu ubicación</string>
+    <string name="add">Agregar</string>
+    <string name="subtract">Sustraer</string>
+    <string name="vegetarian">Vegetariano</string>
+    <string name="non_vegetarian">No Vegetariano</string>
+    <string name="cart">Carta</string>
+    <string name="recommended">Recomendado</string>
+    <string name="all_around_you">A tu alrededor...</string>
+    <string name="order_from_favourites">Ordenar desde favoritos...</string>
+    <string name="restaurant">Restaurante</string>
+    <string name="recommended_for_you">Recomendado para ti ...</string>
+    <string name="ad">Agregar</string></resources>
